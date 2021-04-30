@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming, networking, and data
 - 🌱 I’m currently completing a Bachelor of Computing, majoring in Software Engineering
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: 
 
 <!---
 lach-g/lach-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
